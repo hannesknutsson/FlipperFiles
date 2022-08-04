@@ -1,3 +1,6 @@
 [submodule "infrared/Flipper-IRDB"]
 	path = infrared/Flipper-IRDB
 	url = git@github.com:logickworkshop/Flipper-IRDB.git
+[submodule "subghz/t119bruteforcer"]
+	path = subghz/t119bruteforcer
+	url = git@github.com:xb8/t119bruteforcer.git
