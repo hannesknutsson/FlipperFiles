@@ -1,0 +1,14 @@
+REM Title:	macOS rickroll with terminal payload
+REM Author:	Nils Streedain
+REM Description:Opens a rickroll in YouTube in full screen at maximum volume
+REM		as a distraction while another command is run in terminal.
+REM		(Replace terminalCommand with your own command)
+REM Target:	macOS 11.0+
+REM Version:	1.0
+REM Category:	Execution
+REM Source:	https://github.com/nilsstreedain/Ducky-Scripts/
+DELAY 100
+GUI ENTER
+DELAY 500
+STRING firefox www.youtube.com/watch?v=dQw4w9WgXcQ
+ENTER
